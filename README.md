@@ -9,3 +9,8 @@ The following dataset contains 1936758 flights in United States in 2008, with th
 The aim is to find what are the reasons of the delays, and try to predict the delay.
 
 The data was obteined from: https://www.kaggle.com/datasets/giovamata/airlinedelaycauses
+
+* Exploratory Data Analysis
+* Data Visualization
+* ML models for a regression problem (Decision Tree, K Neighbors, Random Forest, Linear Regression)
+* Appendix with Web Scraping
