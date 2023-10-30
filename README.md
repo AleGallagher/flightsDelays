@@ -10,6 +10,9 @@ The aim is to find what are the reasons of the delays, and try to predict the de
 
 The data was obteined from: https://www.kaggle.com/datasets/giovamata/airlinedelaycauses
 
+
+The main keys of the project are:
+
 * Exploratory Data Analysis
 * Data Visualization
 * ML models for a regression problem (Decision Tree, K Neighbors, Random Forest, Linear Regression)
